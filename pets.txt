@@ -3,3 +3,5 @@ jiji
 nini
 samsam
 monek
+froggy
+fifi
